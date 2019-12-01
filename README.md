@@ -1,2 +1,2 @@
 # basics-python
-exercises-python for beginners
+exercises-python for beginners and notes
